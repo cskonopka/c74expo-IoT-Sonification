@@ -28,5 +28,6 @@ void loop() {
   stringOne += distance;
   stringOne.toCharArray(charBuf, 50);
   wio.sendSMS("2936", charBuf);
+  SerialUSB.println(charBuf);
   delay(15000);
 }
