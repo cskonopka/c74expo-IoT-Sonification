@@ -7,9 +7,9 @@ The purpose of the workshop was to briefly discuss the history of modems and how
 
 ## Repository Contents
 * Assets
-  * Images and content pertaining to the workshop
+  * Images and content from the workshop describe IoT workflows.
 * Examples
-  * Arduino examples that demonstrate how to send and receive Machine-to-Machine messages using various off-the-shelf microcontrollers
+  * Arduino examples that demonstrate how to send and receive Machine-to-Machine messages using various off-the-shelf microcontrollers.
     * Arduino MKR 1400, Wio LTE, Adafruit FONA 3G, Adafruit Feather 32u4 FONA
 * Project
   * The Max8 patched and Node.js file used to collect the SIM data in real-time during the workshop.
